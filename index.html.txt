@@ -1,0 +1,78 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
+
+
+    <title>MyWeb</title>
+</head>
+<body>
+    <div class="second">
+        <img src="https://media0.giphy.com/media/9JrkkDoJuU0FbdbUZU/200w.webp?cid=ecf05e47uwkub1s0x2bv0qj2grk2xg3fz345pxm2el7gaz9p&ep=v1_gifs_search&rid=200w.webp&ct=g" alt="img2">
+    </div>
+    
+    <div class="seven">
+
+        <img class="letgo" src="https://media2.giphy.com/media/662x4ljufm1MVbP2Eu/200w.webp?cid=ecf05e47993pcyezi0j6yiv77deojf92au8bol4xneb4d0lz&ep=v1_gifs_search&rid=200w.webp&ct=g" alt="web">
+        <hr>
+        <h1 class="riding"><strong>I'm RITIK.</strong></h1>
+        <p style="font-size: 24px; font-family: 'merriweather',serif;">A Web Developer.</p>
+    </div>
+    <hr style="position: relative;right: 5%;">
+    <br> 
+    <img  class="robot" src="https://media4.giphy.com/media/Ps89uHS7n72j6/200.webp?cid=ecf05e4707mmd164p9vusphgn7e9dnwq77wboco9toaoz1ol&ep=v1_gifs_search&rid=200.webp&ct=g" alt="you">
+    <br>
+    <div class="eight">
+        <img class="myimg" src="myimg.png" alt="my">
+        <br>
+    <h1 style="text-align: left; font-family: 'Sacramento',cursive; font-size: 45px;">HELLO</h1>
+    <p style="font-size: 23px; font-family: 'merriweather',serif;">I am a Web Developer.I'm the Computer Science Engineering student at CMR Institiute Of Technology.</p>
+    </div>
+    <br> 
+    <hr style=" border-style: none;border-top-style: dotted; border-width: 5px;border-color:skyblue ; width: 5%; ">    
+<br><br>
+    <div>
+    <h1 style="font-size: 45px;">My Skills</h1>
+ </div>
+
+<br><br>
+<div>
+    <img class="web" src="https://cdn-icons-png.flaticon.com/128/1329/1329016.png" alt="computer">
+    <h2 class="riding">Design & Developement</h2>
+    <p style="font-size: 22px;">
+        I started learning to code when I was 16 years old because I wanted to make my won video games.Over time,I have gained a wealth of experience designing and developement mobile and web applications.
+    </p>
+</div>
+
+<div class="fifth">
+    <img class="bike" src="https://th.bing.com/th/id/OIP.x_9XF_JLaXxzIRgp3eXxNwHaEJ?w=274&h=180&c=7&r=0&o=5&pid=1.7" alt="bikepic">
+    <h2 class="riding">Bike Riding Challenge</h2>
+    <p style="font-size: 22px;">But my best skill is actually in riding a Bikes.I am the undisputed king of Bike riding challenges.Kawasaki Ninja H2 and  Ducati V4s are my favorite bikes.</p>
+    </div>
+    <br>
+    <hr style=" border-style: none;border-top-style: dotted; border-width: 5px;border-color:skyblue ; width: 5%; ">    
+
+
+<div class="third">
+    <h2 style="font-size: 40px;font-family: 'montserrat',sans-serif,cursive;">Get In Touch</h2>
+    <p style="font-size: 23px;">If you love Bike Riding as much as I do? Let's talk about our experiences! We can go for a ride</p>
+    <br>
+    <a class="btn" href="mailto:rajritik1403@gmail.com">CONTACT ME</a>
+</div>
+
+<div class="fourth">
+    <p>
+            <a href=" ">Linkedin</a></td>
+            <a href="https://instagram.com/rira_insta?igshid=MzNlNGNkZWQ4Mg==">Instagram</a>
+            <a href="https://www.facebook.com/profile.php?id=100014602060673&mibextid=ZbWKwL">Facebook</a>
+        
+    </p>
+    <p style="font-size: 27px;color: #11999e; text-align: center;">~2023 Ritik Raj @Engineer</p>
+</div>
+
+  </body>
+</html>
